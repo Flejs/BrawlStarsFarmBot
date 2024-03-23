@@ -21,6 +21,8 @@ It's a simple farmbot that plays brawl stars duo showdown
 
 ## Help
  It is an example so fuXk you
+ Don't move the window, it's an example of where the fov is.
+
 
 ## Authors
 Idiot - Flej  
